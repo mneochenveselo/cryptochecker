@@ -1,4 +1,4 @@
-
+![Image](https://github.com/mneochenveselo/cryptochecker/blob/main/image4.png)
 # CryptoChecker
 
 
@@ -112,3 +112,12 @@ The checker will start in the background. After the software is finished, the re
 *Например:* ```./checker logs1 proxy.txt result 0 0```
 
 Проверка запустится в фоновом режиме. После завершения работы появится папка result в которой будут находится результаты поиска
+
+
+
+### Images
+
+![Image](https://github.com/mneochenveselo/cryptochecker/blob/main/image3.png)
+![Image](https://github.com/mneochenveselo/cryptochecker/blob/main/image.png)
+![Image](https://github.com/mneochenveselo/cryptochecker/blob/main/image2.png)
+![Image](https://github.com/mneochenveselo/cryptochecker/blob/main/image4.png)
